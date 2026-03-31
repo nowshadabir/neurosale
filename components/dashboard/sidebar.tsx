@@ -137,8 +137,8 @@ export function Sidebar() {
             items: [
               { icon: Monitor, label: "POS Terminal", href: "/dashboard/pos" },
               { icon: Map, label: "Floor Map", href: "/dashboard/floor" },
-              { icon: ChefHat, label: "KDS (Kitchen)", href: "/dashboard/kds" },
-              { icon: Ticket, label: "Ready View", href: "/dashboard/expeditor" },
+              { icon: ChefHat, label: "KDS (Kitchen)", href: "/dashboard/kitchen" },
+              { icon: Ticket, label: "Ready View", href: "/dashboard/ready" },
             ],
           },
           {
